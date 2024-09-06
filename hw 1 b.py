@@ -1,9 +1,12 @@
 #start
-from colorsys import yiq_to_rgb
 
-name1:str ='avi'
-name2:str ='yosi'
-name3:str='liron'
-print (f'name:{name1}')
-print (f'name:{name2}')
-print (f'name:{name3}')
+
+id1 = str ( 'avi " cohen'<' big:')
+id2 = str ('yosi levi short :')
+id3 = str (' liron israel strong :')
+print (f'id1: {id1}')
+print(f'id2:{id2}')
+print(f'id3:{id3}')
+
+
+
