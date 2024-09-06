@@ -1,7 +1,7 @@
 #start
 
 
-id1 = str ( 'avi " cohen'<' big:')
+id1 = str ( 'avi " cohen big:')
 id2 = str ('yosi levi short :')
 id3 = str (' liron israel strong :')
 print (f'id1: {id1}')
